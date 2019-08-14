@@ -1,9 +1,9 @@
 language: java
 jdk: openjkd11
 cache:
-	directories: $HOME/.m2
+   directories: $HOME/.m2
 notifications:
-	email:
-		recipients: clarebuckley1@hotmail.com
-		on_failure: always
-		on_success: never
+   email:
+      recipients: clarebuckley1@hotmail.com
+      on_failure: always
+      on_success: never
